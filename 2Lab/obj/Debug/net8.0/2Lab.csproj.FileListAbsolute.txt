@@ -1,0 +1,14 @@
+C:\Users\tetie\Desktop\Моё\Навчання\Функціональний аналіз\2Lab\obj\Debug\net8.0\2Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetie\Desktop\Моё\Навчання\Функціональний аналіз\2Lab\obj\Debug\net8.0\2Lab.AssemblyInfoInputs.cache
+C:\Users\tetie\Desktop\Моё\Навчання\Функціональний аналіз\2Lab\obj\Debug\net8.0\2Lab.AssemblyInfo.cs
+C:\Users\tetie\Desktop\Моё\Навчання\Функціональний аналіз\2Lab\obj\Debug\net8.0\2Lab.csproj.CoreCompileInputs.cache
+C:\Users\tetie\Desktop\Моё\Навчання\Функціональний аналіз\2Lab\bin\Debug\net8.0\2Lab.exe
+C:\Users\tetie\Desktop\Моё\Навчання\Функціональний аналіз\2Lab\bin\Debug\net8.0\2Lab.deps.json
+C:\Users\tetie\Desktop\Моё\Навчання\Функціональний аналіз\2Lab\bin\Debug\net8.0\2Lab.runtimeconfig.json
+C:\Users\tetie\Desktop\Моё\Навчання\Функціональний аналіз\2Lab\bin\Debug\net8.0\2Lab.dll
+C:\Users\tetie\Desktop\Моё\Навчання\Функціональний аналіз\2Lab\bin\Debug\net8.0\2Lab.pdb
+C:\Users\tetie\Desktop\Моё\Навчання\Функціональний аналіз\2Lab\obj\Debug\net8.0\2Lab.dll
+C:\Users\tetie\Desktop\Моё\Навчання\Функціональний аналіз\2Lab\obj\Debug\net8.0\refint\2Lab.dll
+C:\Users\tetie\Desktop\Моё\Навчання\Функціональний аналіз\2Lab\obj\Debug\net8.0\2Lab.pdb
+C:\Users\tetie\Desktop\Моё\Навчання\Функціональний аналіз\2Lab\obj\Debug\net8.0\2Lab.genruntimeconfig.cache
+C:\Users\tetie\Desktop\Моё\Навчання\Функціональний аналіз\2Lab\obj\Debug\net8.0\ref\2Lab.dll
